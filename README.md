@@ -49,18 +49,25 @@ Login via Remote Desktop Connection
   <img width="325" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/abcbca16-9874-4d0b-b4b9-bd5f7518a76c">
 </p>
 
+Configuration of IIS
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="136" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/6e59ce23-a6b5-4327-a49c-9a5736fa3be1">
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Connecting to IIS using loopback address: 127.0.0.1
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img width="293" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/728de729-083f-461f-a8ff-c2f1417e33e2">
+</p
+  
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installation of PHP Manager for IIS
 </p>
 <br />
+
+<p>
+<img width="413" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/c8cb10c2-08f8-41bb-880a-dcbd9480c3e1">
+</p
