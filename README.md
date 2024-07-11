@@ -14,7 +14,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
@@ -30,9 +30,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1199" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/d858b743-a29b-4f7b-9007-f0bebb414338">
 </p>
 
+<p>
+  <img width="1259" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/ab874c54-24d9-4d34-b08e-a5ecb9fa5b82">
+</p>
+
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Setup of Resource Group and Virtual Machine-Windows 10 Operating System
 </p>
 <br />
 
