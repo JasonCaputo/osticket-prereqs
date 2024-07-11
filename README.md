@@ -81,3 +81,29 @@ Install and Configure MySQL Database
 <img width="667" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/eddc34ff-df57-474c-891f-dbcddf87f51f">
 </p
 
+<p>
+Create OS Ticket Database
+</p>
+<br />
+
+<p>
+<img width="722" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/d48fa154-17a5-4256-83bc-291ade658dfb">
+</p>
+
+<p>
+
+</p>
+<br />
+
+<p>
+  <img width="668" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/56ee880a-4f7d-4161-ac04-15abb8451621">
+</p>
+
+<p>
+OS Ticket Homescreen
+</p>
+<br />
+<p>
+  <img width="640" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/6b8a1218-127f-4d72-9386-88c8feb81305">
+
+</p>
