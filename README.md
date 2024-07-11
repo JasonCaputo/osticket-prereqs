@@ -78,6 +78,6 @@ Install and Configure MySQL Database
 <br />
 
 <p>
-![image](https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/79871630-ee1e-4cc1-ae42-58129463e527)
+<img width="667" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/eddc34ff-df57-474c-891f-dbcddf87f51f">
 </p
 
