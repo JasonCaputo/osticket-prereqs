@@ -71,3 +71,13 @@ Installation of PHP Manager for IIS
 <p>
 <img width="413" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/c8cb10c2-08f8-41bb-880a-dcbd9480c3e1">
 </p
+
+<p>
+Install and Configure MySQL Database
+</p>
+<br />
+
+<p>
+![image](https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/79871630-ee1e-4cc1-ae42-58129463e527)
+</p
+
