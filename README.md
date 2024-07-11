@@ -41,6 +41,15 @@ Setup of Resource Group and Virtual Machine-Windows 10 Operating System
 <br />
 
 <p>
+Login via Remote Desktop Connection
+</p>
+<br />
+
+<p>
+  <img width="325" alt="image" src="https://github.com/JasonCaputo/osticket-prereqs/assets/175258410/abcbca16-9874-4d0b-b4b9-bd5f7518a76c">
+</p>
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
